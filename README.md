@@ -1,4 +1,4 @@
-# Space Invaders BENMBAREK Younes
+# Space Invaders
 
 Jeu inspiré du célèbre Space Invaders.
 
@@ -30,7 +30,7 @@ Le jeu utilise les commandes suivantes :
 - "d" ==> aller à droite
 - "m" ==> tirer un missile
 
-### Bonus : score
+### Score
 
 J'ai rajouté un score en bonus. Ce dernier est lu dans un fichier score.txt.
 Cette implémentation amène néanmoins des warnings avec clang tidy.
